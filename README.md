@@ -1,7 +1,6 @@
-- 👋 Hi, I’m @jenlcmc or Uyen Tran. Currently, I'm a freshman in CS and will be sophomore by fall 2021
+- 👋 Hi, I’m @jenlcmc or Uyen Tran. Currently, I'm a rising senior in CS
 - 👀 I’m interested in game development and AI/ML
-- 🌱 I’m currently learning C++, Python, JavaScript, HTML, and CSS
-- 💞️ I’m looking to collaborate on any kind of projects, esp about c++ and python
+- 💞️ I’m looking to collaborate on any kind of projects
 - 📫 How to reach me ...
   -The best way to reach me is pull request
 
