@@ -3,6 +3,7 @@
 - 💞️ I’m looking to collaborate on any kind of projects
 - 📫 How to reach me ...
   -The best way to reach me is pull request
+- No lurking plz, 
 
 <!---
 jenlcmc/jenlcmc is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
