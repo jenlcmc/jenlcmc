@@ -1,9 +1,5 @@
 - 👋 Hi, I’m @jenlcmc or Uyen Tran. Currently, I'm a senior in CS
-- 👀 I’m interested in game development and AI/ML
-- 💞️ I’m looking to collaborate on any kind of projects
-- 📫 How to reach me ...
-  -The best way to reach me is pull requests on any of my project
-- Also, people who lurking at my account
+- Also, people who lurking at my account (UNLV students)
     - plz stop doing it and no stealing code from me
     - I'm looking at you now 👁️👁️
 
