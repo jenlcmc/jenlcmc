@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @jenlcmc or Uyen Tran. Currently, I'm a senior in CS
+- 👋 Hi, I’m @jenlcmc or Uyen Tran. Currently, I'm a recent grad in CS with minor in Mathematics 
 - Also, people who lurking at my account (UNLV students)
-    - plz stop doing it and no stealing code from me
-    - I'm looking at you now 👁️👁️
+    - plz stop doing it and no stealing code from me (I know that you guys did that before esp those in CS 135 as I was TA) 
+    - I'm looking at you now 👁️👁️ -> avoid doing it please
 
 <!---
 jenlcmc/jenlcmc is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
